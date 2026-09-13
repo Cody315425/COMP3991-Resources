@@ -1,5 +1,5 @@
 [project]
-site_url = "https://www.example.com/"
+site_url = "https://cody315425.github.io/COMP3991-Resources/"
 site_name = "COMP3991 Resources"
 # site_description = "This webpage contains supplementary resources for the COMP3991 course."
 # site_author = "Cody Deonarine"
@@ -83,7 +83,7 @@ toggle.name = "Switch to system preference"
 
 # [[project.extra.social]]
 # icon = "fontawesome/brands/github"
-# link = "https://github.com/user/repo"
+# link = "https://github.com/Cody315425/COMP3991-Resources"
 
 # [[project.extra.social]]
 # icon = "fontawesome/brands/mastodon"

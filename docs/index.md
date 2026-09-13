@@ -11,7 +11,7 @@ them myself :D.
 This is the first time the course is being run, as such we really have no prior testing material
 to go off of with regards to questions. The course is heavily based on Mike Cohen's work on
 [Calculus](https://github.com/mikexcohen/Calculus_book) and [Linear Algebra](https://github.com/mikexcohen/LinAlgBook) so we may assume that the examinations will be similar to his exercises.
-Dr. Manohar really like proofs however so although it's an "Applied Math" course you should expect
+Dr. Manohar really likes proofs however so although it's an "Applied Math" course you should expect
 quite a few proofs. 
 
 For this guide I will be speaking from my own experience with math and will be showing my approach to this course. You do not need to follow my approach, however I hope the resources are helpful.
